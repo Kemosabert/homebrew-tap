@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Custom [Homebrew](https://brew.sh) tap by [@bertcoppens](https://github.com/bertcoppens).
+Custom [Homebrew](https://brew.sh) tap by [@Kemosabert](https://github.com/Kemosabert).
 
 ## Usage
 
@@ -24,12 +24,12 @@ brew install bertcoppens/tap/<formula>
 
 A fast JSON editor built for large files.
 
-**Source:** [github.com/bertcoppens/json-editor](https://github.com/bertcoppens/json-editor)  
+**Source:** [github.com/bertcoppens/json-editor](https://github.com/Kemosabert/jsed)  
 **License:** MIT  
 **Platform:** macOS (Apple Silicon)
 
 ```bash
-brew install bertcoppens/tap/jsed
+brew install Kemosabert/tap/jsed
 ```
 
 ## License
