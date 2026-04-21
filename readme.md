@@ -5,13 +5,13 @@ Custom [Homebrew](https://brew.sh) tap by [@Kemosabert](https://github.com/Kemos
 ## Usage
 
 ```bash
-brew tap bertcoppens/tap
+brew tap Kemosabert/tap
 ```
 
 Then install any formula from this tap:
 
 ```bash
-brew install bertcoppens/tap/<formula>
+brew install Kemosabert/tap/<formula>
 ```
 
 ## Formulae
