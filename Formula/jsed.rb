@@ -1,13 +1,13 @@
 class Jsed < Formula
   desc "Super tiny JSON editor for big files"
   homepage "https://github.com/Kemosabert/jsed"
-  version "0.0.2"
+  version "0.0.3"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/Kemosabert/jsed/releases/download/v0.0.2/jsed-v0.0.2-macos-aarch64.tar.gz"
-      sha256 "af9a710bd4bc7c6a173f91573ab9082552fbda5b3ed91b17ed6b3cafb22bba22"
+      url "https://github.com/Kemosabert/jsed/releases/download/v0.0.3/jsed-v0.0.3-macos-aarch64.tar.gz"
+      sha256 "75490e0d33848cb88880cf427ef3c592e70763c9ab21ebde992770d9b031389f"
     end
   end
 
