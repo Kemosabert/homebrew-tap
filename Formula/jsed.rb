@@ -1,7 +1,7 @@
 class Jsed < Formula
   desc "Super tiny JSON editor for big files"
   homepage "https://github.com/Kemosabert/jsed"
-  version "0.0.3"
+  version "0.0.4"
   license "MIT"
 
   on_macos do
