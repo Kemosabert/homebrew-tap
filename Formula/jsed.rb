@@ -6,8 +6,8 @@ class Jsed < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Kemosabert/jsed/releases/download/v0.0.3/jsed-v0.0.3-macos-aarch64.tar.gz"
-      sha256 "75490e0d33848cb88880cf427ef3c592e70763c9ab21ebde992770d9b031389f"
+      url "https://github.com/Kemosabert/jsed/releases/download/v0.0.4/jsed-v0.0.4-macos-aarch64.tar.gz"
+      sha256 "70c32951fcdf083d316a66ae18e47e0b417c8934fb4e1f968ce937f84c507a51"
     end
   end
 
